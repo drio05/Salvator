@@ -1,2 +1,2 @@
 # Salvator
-Copy the Amb folder into the Salvator folder then run the index.html file
+Copy the Amb folder into the Salvator folder then run the index.html file in the Salvator folder
